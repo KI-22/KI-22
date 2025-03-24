@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning: JavaScript (March '25)
+- 🤔 I’m looking for help with: learning Web Accessibility
+
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I volunteer with Girlguiding UK.
+
 <!--
 **KI-22/KI-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
