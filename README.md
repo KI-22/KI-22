@@ -47,6 +47,12 @@ hobbies: ["Reading - All Systems Red", "Volunteering - Girlguiding UK"]
   
 ---  
 
+🤔 **Have any questions or learning suggestions?** 
+
+Come find me on LinkedIn, I'd love to hear from you!
+
+---
+
 <!--
 Projects (to edit)
 -------
@@ -56,7 +62,7 @@ Projects (to edit)
 | [**FocusFinder**](https://github.com/KI-22/FocusFinder) | A website to find study spots in the UK. | 10 days | C#, .NET, HTML, CSS |
 | [**Acebook**](https://github.com/aysinakpinar/csharp-acebook-mvc-umbrella)  | An experimental facebook clone. TBC Private repos. | 10 days |  C#, .NET, HTML, CSS |
 
-<!--
+
 <h2>A little bit about me...</h2>
 Currently studying on the Makers Bootcamp for Software Engineering (May 2025).
 
@@ -66,7 +72,7 @@ Currently studying on the Makers Bootcamp for Software Engineering (May 2025).
 - ⚡ Fun fact: I volunteer with Girlguiding UK.
 
 ---
--->
+
 
 **KI-22/KI-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
