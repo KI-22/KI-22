@@ -1,10 +1,59 @@
-## Hi there 👋
+# Hello there! 👋
+---
+<!--
+<h2>A little bit about me...</h2>
+Currently studying on the Makers Bootcamp for Software Engineering (May 2025).
 
-- 🌱 I’m currently learning: JavaScript (March '25)
-- 🤔 I’m looking for help with: learning Web Accessibility
-
-- 😄 Pronouns: she/her
+- 🌱 I’m currently learning: JavaScript/React (March '25)
+- 🤔 I’m looking for help with: Web Accessibility (learning resources)
+- 😄 Pronouns: she/her/they
 - ⚡ Fun fact: I volunteer with Girlguiding UK.
+
+---
+-->
+
+
+<h2>A little bit about me...</h2>
+
+```yaml
+name: Kate Bancroft
+pronouns: she/her/they
+located_in: London, UK
+
+currently_learning:
+  [
+    "JavaScript",
+    "React"
+  ]
+
+technical_background:
+  [
+    "Software Engineering Bootcamp - Makers Academy",
+    "Intro to Data MOOC sprint - Code First Girls"
+  ]
+
+experience_in:
+  [
+    "Python",
+    "SQL",    
+    "C#",
+    "GitHub",
+    "Test-Driven Development",
+    "Pair Programming",
+    "Agile"
+  ]
+fields_of_interests:
+  [
+    "Web Accessibility",
+    "Web Development",    
+    "Data Engineering",
+    "Quality Testing"
+  ]
+  
+hobbies: ["Reading - All Systems Red", "Volunteering - Girlguiding UK"]
+```
+  
+---  
 
 <!--
 Projects (to edit)
