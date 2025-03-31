@@ -1,10 +1,23 @@
 # Hello there! 👋
----
-I'm Kate (she/her), an aspiring Software Developer currently developing my skills on Makers' Software Engineering Bootcamp (Nov. '24 - May '25). 
 
-The skills I have gained so far in my diverse professional experience (from 5* hospitality to the university sector) have equipped me with an excellent foundation for beginning my career in tech. From problem-solving to clear communication and attention to detail, I look forward to further strengthening (and gaining more!) skills as I progress.
+I'm Kate (she/her), a Software Engineer currently developing my skills on Makers' Software Engineering Bootcamp (Nov. '24 - May '25). 
+
+The skills I have gained so far in my diverse professional experience (from 5* hospitality to the university sector) have equipped me with an excellent foundation for a career in tech. From problem-solving to clear communication and attention to detail, I look forward to further strengthening (and gaining more!) skills as I progress.
+
+<!-- #### Languages and Tools 
+-------------    -->
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#) 
 
 ---
+
+
 <h2>A little bit about me...</h2>
 
 ```yaml
