@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Kate (she/her), a Software Engineer currently developing my skills on Makers' Software Engineering Bootcamp (Nov. '24 - May '25). 
+I'm Kate (she/her), a recent graduate of Makers' Software Engineering Bootcamp (Nov. '24 - May '25). 
 
 The skills I have gained so far in my diverse professional experience (from 5* hospitality to the university sector) have equipped me with an excellent foundation for a career in tech. From problem-solving to clear communication and attention to detail, I look forward to further strengthening (and gaining more!) skills as I progress.
 
