@@ -1,8 +1,7 @@
-# Hello there! 👋
+# Hi there! 👋
 
-I'm Kate (she/her), a recent graduate of Makers' Software Engineering Bootcamp (Nov. '24 - May '25). 
+I'm Kate (she/they), a graduate of Makers' Software Engineering Bootcamp (Nov. '24 - May '25).
 
-The skills I have gained so far in my diverse professional experience (from 5* hospitality to the university sector) have equipped me with an excellent foundation for a career in tech. From problem-solving to clear communication and attention to detail, I look forward to further strengthening (and gaining more!) skills as I progress.
 
 <!-- #### Languages and Tools 
 -------------    -->
@@ -17,18 +16,13 @@ The skills I have gained so far in my diverse professional experience (from 5* h
 ---
 
 
+
 <h2>A little bit about me...</h2>
 
 ```yaml
 name: Kate Bancroft
 pronouns: she/her/they
 located_in: London, UK
-
-currently_learning:
-  [
-    "JavaScript",
-    "React"
-  ]
 
 technical_background:
   [
@@ -41,6 +35,7 @@ experience_in:
     "Python",
     "SQL",    
     "C#",
+    "JavaScript",
     "GitHub",
     "Test-Driven Development",
     "Pair Programming",
@@ -48,9 +43,8 @@ experience_in:
   ]
 fields_of_interests:
   [
-    "Web Accessibility",
-    "Web Development",    
     "Data Engineering",
+    "Web Accessibility", 
     "Quality Testing"
   ]
   
